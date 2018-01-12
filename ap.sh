@@ -51,7 +51,7 @@ ngecek_email(){ # CHECK VALID
 # CHECK SPECIAL VAR FOR MAILIST
 if [[ -z $1 ]]; then
 	header
-	printf "To Use $0 <mailist.txt> \n"
+	printf "Cara Pakai Gini Asoo $0 mailistmu.txt \n"
 	exit 1
 fi
 
