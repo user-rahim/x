@@ -16,11 +16,13 @@ B='\e[1m'
 CC='\e[0m'
 cat << "EOF"
 
- ====================================
-       {+}Validator AppleID}+}     
-        user.rahim@gmail.com
-        Crered By X-Mr.R4h1M
- ====================================                                
+              - VALIDATOR AppleID -
+           [+]ad.android@yahoo.com[+]
+     [+]www.facebook.com/my.profile.co.id[+]
+        
+===================================================
+   Email AppleID Validator By : X-Mr.R4h1M
+===================================================                             
               
 EOF
 printf "\n"
